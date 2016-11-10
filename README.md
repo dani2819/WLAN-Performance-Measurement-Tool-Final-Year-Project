@@ -3,17 +3,17 @@ It meausres the performance of Wireless local area network by sniffing traffic a
 key performance indicators are as follow:
 
 ##Data Link Layer
-a) Uplink Radio Retransmission Rate
-b) Downlink Radio Retransmission Rate
-c) Uplink Radio Frame Size
-d) Downlink Radio Frame Size
+a) Uplink Radio Retransmission Rate <br/>
+b) Downlink Radio Retransmission Rate <br/>
+c) Uplink Radio Frame Size <br/>
+d) Downlink Radio Frame Size <br/>
 
 ##Network Layer:
-a) ICMP Success Rate
-b) Round Trip Time
+a) ICMP Success Rate <br/>
+b) Round Trip Time <br/>
 
 ##Transport layer:
-a) Uplink throughput
-b) Downlink throughput
-c) Uplink TCP retransmission rate
-d) Downlink TCP retransmission rate
+a) Uplink throughput <br/>
+b) Downlink throughput <br/>
+c) Uplink TCP retransmission rate <br/>
+d) Downlink TCP retransmission rate <br/>
